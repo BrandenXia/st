@@ -8,6 +8,9 @@
 static char *font = "JetBrainsMonoNL Nerd Font Mono:pixelsize=30:antialias=true:autohint=true";
 static int borderpx = 20;
 
+/* background opacity */
+float alpha = 0.85;
+
 /*
  * What program is execed by st depends of these precedence rules:
  * 1: program passed with -e
