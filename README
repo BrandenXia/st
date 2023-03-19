@@ -3,7 +3,7 @@ My build of st
 st is a simple terminal emulator for X which sucks less.
 
 Add transparent background, one dark theme, and JetbrainsMonoNL Nerd Font Mono
-Use Shift + mouse scroll key to move up and down
+Use mouse scroll key to move up and down
 
 Requirements
 ------------
